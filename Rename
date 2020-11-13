@@ -1,7 +1,0 @@
-git branch -m <patch-1> <RMS>
- 
-git push origin --delete <patch-1>
- 
-finally you can push the new branch to github:
- 
-git push origin <RMS>
